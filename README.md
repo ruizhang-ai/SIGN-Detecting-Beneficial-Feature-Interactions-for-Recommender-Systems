@@ -2,7 +2,7 @@
 
 This is our implementation for the paper:
 
-Su, Y., Zhang, R., Erfani, S., & Xu, Z. (2021). *Detecting Beneficial Feature Interactions for Recommender Systems*. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI). [Link](https://arxiv.org/abs/2008.00404)
+Su, Y., Zhang, R., Erfani, S., & Xu, Z. (2021). *Detecting Beneficial Feature Interactions for Recommender Systems*. In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI). [link1](https://www.ruizhang.info/publications/AAAI%202021%20Detecting%20Beneficial%20Feature%20Interactions%20for%20Recommender%20Systems.pdf) or [Link2](https://arxiv.org/abs/2008.00404)
 
 ## Description
 
