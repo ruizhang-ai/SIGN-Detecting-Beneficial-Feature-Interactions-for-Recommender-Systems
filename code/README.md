@@ -6,8 +6,8 @@
 0. You need to set up the environment for running the experiments (Anaconda 3-2020.02 or above and Python 3.7 or above). First, you can install Anaconda by following the instruction from  the [website](https://docs.anaconda.com/anaconda/install/).
    
    Next, you can create a virtual environment using the following commands:
-   <pre><code>$ conda create -n GMCF python=3.7 anaconda
-   $ conda activate GMCF</code></pre>
+   <pre><code>$ conda create -n SIGN python=3.7 anaconda
+   $ conda activate SIGN</code></pre>
 
 1. Install Pytorch with version 1.6.0 or later.
 
@@ -34,12 +34,12 @@
 
    clone this repository:
    ```
-   $ git clone https://github.com/suyixin12123/L0-SIGN.git
+   $ git clone https://github.com/ruizhang-ai/SIGN-Detecting-Beneficial-Feature-Interactions-for-Recommender-Systems.git
    ```
 
    and go to the folder of the repository:
    ```
-   $ cd GMCF_Neural_Graph_Matching_based_Collaborative_Filtering
+   $ cd SIGN-Detecting-Beneficial-Feature-Interactions-for-Recommender-Systems/
    ```
 
    Now, our source codes are in the folder ```code/``` and the datasets are in the folder ```data/```.
@@ -52,10 +52,10 @@
 ## Run the code
 
 
-Go to the ```code/``` folder and run the ```main.py``` file:
+Go to the ```code/``` folder and run the ```SIGN_main.py``` file:
    ```
    $ cd code
-   $ python main.py --dataset=frappe --predict_edge=1 --lr=0.05
+   $ python SIGN_main.py --dataset=frappe --predict_edge=1 --lr=0.05
    ```
    Main arguments:
    ```
