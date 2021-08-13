@@ -55,7 +55,7 @@
 Go to the ```code/``` folder and run the ```SIGN_main.py``` file:
    ```
    $ cd code
-   $ python SIGN_main.py --dataset=frappe --predict_edge=1 --lr=0.05
+   $ python SIGN_main.py --dataset=frappe --pred_edges=1 --lr=0.05
    ```
    Main arguments:
    ```
